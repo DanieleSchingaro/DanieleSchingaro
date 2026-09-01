@@ -6,7 +6,7 @@ Sono uno studente di Informatica triennale interessato al deep learning applicat
 
 ---
 
-**🛠️ Cosa so fare:**
+### 🛠️ Cosa so fare:
 
 - **Conoscenze base in:** Python, C, Java, TypeScript, JavaScript, SQL.
 - **AI & Deep Learning:** PyTorch, MONAI, MAISI, ControlNet, LangChain.
@@ -15,7 +15,7 @@ Sono uno studente di Informatica triennale interessato al deep learning applicat
 
 ---
 
-**🚀 Progetti in evidenza:**
+### 🚀 Progetti in evidenza:
 
 - [**3DLDM_Schingaro**](https://github.com/DanieleSchingaro/3DLDM_Schingaro): Generazione di MRI cerebrali 3D sintetiche con Latent Diffusion Model e ControlNet (Progetto tesi triennale).
 - [**Sleep_Apnea**](https://github.com/DanieleSchingaro/Sleep_Apnea): APNEASENSE, piattaforma IoT per il rilevamento non invasivo delle apnee notturne, con dispositivo Arduino e gemello digitale in FlexSim.
@@ -23,7 +23,7 @@ Sono uno studente di Informatica triennale interessato al deep learning applicat
 
 ---
 
-**💼 Contatti:**
+### 💼 Contatti:
 
-- 💼 LinkedIn: [Daniele Schingaro](https://www.linkedin.com/in/INSERISCI-QUI)
+- 💼 LinkedIn: [Daniele Schingaro](https://www.linkedin.com/in/daniele-schingaro/)
 - 📧 Email: [d.schingaro04@gmail.com](mailto:d.schingaro04@gmail.com)
