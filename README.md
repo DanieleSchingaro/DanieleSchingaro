@@ -19,7 +19,7 @@ I'm a Master's student in Computer Science interested in deep learning for medic
 ### 🚀 Featured projects:
 
 - [**energy-forecasting-mlops**](https://github.com/DanieleSchingaro/energy-forecasting-mlops): Forecasting household electricity demand for the next 24 hours, from raw data to a served API. DVC pipeline, MLflow Model Registry with one champion model per horizon, FastAPI on PostgreSQL, Streamlit dashboard, Docker Compose and CI. 17–24% lower MAE than the strongest naive baseline, measured on a 12-month hold-out.
-- [**3DLDM_Schingaro**](https://github.com/DanieleSchingaro/3DLDM_Schingaro): Generation of synthetic 3D brain MRIs with a Latent Diffusion Model and ControlNet (Bachelor's thesis project).
+- [**3D-LDM**](https://github.com/collab-uniba/medical-3D-LDM): Generation of synthetic 3D brain MRIs with a Latent Diffusion Model and ControlNet (Bachelor's thesis project realized at the Collab laboratory).
 - [**Sleep_Apnea**](https://github.com/DanieleSchingaro/Sleep_Apnea): APNEASENSE, an IoT platform for non-invasive sleep apnea detection, with an Arduino device and a digital twin in FlexSim.
 - [**Q-A_by_RAG**](https://github.com/DanieleSchingaro/Q-A_by_RAG): Full-stack question answering application based on Retrieval-Augmented Generation.
 
